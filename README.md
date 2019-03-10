@@ -1,2 +1,2 @@
 # crypto
-Encrypt, decrypt, and decipher affine cipers from the command line
+Encrypt, decrypt, and decipher affine ciphers from the command line
